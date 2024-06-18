@@ -4,5 +4,6 @@ Dockerfile
 chatgpt.js
 bot_sessions
 .gitignore
+.env
 
 
