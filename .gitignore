@@ -1,4 +1,6 @@
 node_modules
 .env
 Dockerfile
+chatgpt.js
+bot_sessions
 
